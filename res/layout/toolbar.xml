@@ -26,6 +26,7 @@
         android:id="@+id/mode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="@color/display_result_text_color"
         android:fontFamily="sans-serif-medium"
         android:textAllCaps="true"
         android:textSize="16sp" />
